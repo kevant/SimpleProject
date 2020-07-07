@@ -1,0 +1,3 @@
+[submodule "SimpleProject/vendor/MathLib"]
+	path = SimpleProject/vendor/MathLib
+	url = https://github.com/kevant/MathLib.git
